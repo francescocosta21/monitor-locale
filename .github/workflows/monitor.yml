@@ -1,0 +1,90 @@
+name: Monitor
+
+on:
+  schedule:
+    - cron: "7 */2 * * *"     # giro di raccolta ogni 2 ore
+    - cron: "20 3 * * *"      # 5:20 a Roma con l'ora legale
+    - cron: "20 4 * * *"      # 5:20 a Roma con l'ora solare (con l'ora legale il controllo sull'ora la salta)
+  workflow_dispatch:
+    inputs:
+      comando:
+        description: "Cosa fare"
+        type: choice
+        options: [auto, giro, prova, email-subito]
+        default: auto
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q uv && uv pip install --system -q -r requirements.txt
+
+      - name: Recupera il database
+        uses: actions/cache/restore@v4
+        with:
+          path: stato
+          key: monitor-db-${{ github.run_id }}
+          restore-keys: monitor-db-
+
+      - name: Esegui
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_UTENTE: ${{ secrets.GMAIL_UTENTE }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_DESTINATARIO: ${{ secrets.EMAIL_DESTINATARIO }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: |
+          case "${{ inputs.comando || 'auto' }}" in
+            giro)         python -m monitor giro ;;
+            prova)        python -m monitor mattina --prova ;;
+            email-subito) python -m monitor auto --forza-email ;;
+            *)            python -m monitor auto ;;
+          esac
+
+      - name: Salva il database
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: stato
+          key: monitor-db-${{ github.run_id }}
+
+      - name: Anteprima (solo prova)
+        if: inputs.comando == 'prova'
+        uses: actions/upload-artifact@v4
+        with:
+          name: anteprima-email
+          path: data/archivio/prova-*.html
+
+      - name: Registra email inviate
+        run: |
+          rm -f data/archivio/prova-*.html
+          git add data/inviati.csv data/archivio 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git config user.name "monitor-locale"
+            git config user.email "actions@users.noreply.github.com"
+            git commit -m "Email del $(TZ=Europe/Rome date +%F)"
+            git pull --rebase -q && git push -q
+          fi
+
+      - name: Elimina le copie vecchie del database
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh cache list --key monitor-db- --sort created_at --order desc --limit 50 --json id --jq '.[3:][].id' \
+            | xargs -r -n1 gh cache delete || true

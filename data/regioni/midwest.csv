@@ -1,0 +1,127 @@
+nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
+Detroit Free Press,https://www.freep.com,,MI,Detroit,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+The Detroit News,https://www.detroitnews.com,,MI,Detroit,quotidiano_metro,Alden/MediaNews,en,si,402,"da verificare da USA (402); piattaforma Gannett (Detroit Media Partnership), feed da individuare"
+Bridge Michigan,https://www.bridgemi.com,https://bridgemi.com/feed/,MI,Lansing,nonprofit,indipendente,en,no,200,"nonprofit statale (Center for Michigan), forte su politica e inchieste"
+Outlier Media,https://outliermedia.org,https://outliermedia.org/feed/,MI,Detroit,nonprofit,indipendente,en,no,200,"servizio e accountability a Detroit (casa, utenze)"
+BridgeDetroit,https://www.bridgedetroit.com,https://www.bridgedetroit.com/feed/,MI,Detroit,nonprofit,indipendente,en,no,200,"nonprofit su quartieri e comunita nera di Detroit"
+MLive,https://www.mlive.com,https://www.mlive.com/arc/outboundfeeds/rss/?outputType=xml,MI,Grand Rapids,quotidiano_locale,Advance,en,misto,403,"da verificare da USA (403 homepage, feed ok); copre Grand Rapids Kalamazoo Flint Saginaw Ann Arbor"
+WDIV Local 4 ClickOnDetroit,https://www.clickondetroit.com,https://www.clickondetroit.com/arc/outboundfeeds/rss/?outputType=xml,MI,Detroit,tv_locale,Graham Media,en,no,200,NBC Detroit
+Michigan Public,https://www.michiganpublic.org,https://www.michiganpublic.org/index.rss,MI,Ann Arbor,nonprofit,indipendente,en,no,200,"radio pubblica statale (ex Michigan Radio)"
+Michigan Advance,https://michiganadvance.com,https://michiganadvance.com/feed/,MI,Lansing,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+Lansing State Journal,https://www.lansingstatejournal.com,,MI,Lansing,quotidiano_locale,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+Lansing City Pulse,https://lansingcitypulse.com,https://lansingcitypulse.com/feed/,MI,Lansing,settimanale_alt,indipendente,en,no,200,settimanale alternativo della capitale
+WOOD TV8,https://www.woodtv.com,https://www.woodtv.com/feed/,MI,Grand Rapids,tv_locale,Nexstar,en,no,403,"da verificare da USA (403 homepage, feed ok); NBC Grand Rapids"
+Flint Beat,https://www.flintbeat.com,https://www.flintbeat.com/rss.xml,MI,Flint,citta_contea,indipendente,en,no,200,iper-locale di Flint (acqua ambiente consiglio comunale)
+Traverse City Record-Eagle,https://www.record-eagle.com,https://www.record-eagle.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc,MI,Traverse City,quotidiano_locale,CNHI,en,si,451,"da verificare da USA (451 geoblocco UE); feed BLOX dedotto"
+UpNorthLive 7&4,https://upnorthlive.com,https://upnorthlive.com/news/local.rss,MI,Traverse City,tv_locale,Sinclair,en,no,200,TV del nord Michigan
+The Mining Journal,https://www.miningjournal.net,https://www.miningjournal.net/feed/,MI,Marquette,quotidiano_locale,Ogden,en,misto,200,Upper Peninsula
+Milwaukee Journal Sentinel,https://www.jsonline.com,,WI,Milwaukee,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+Wisconsin Watch,https://wisconsinwatch.org,https://wisconsinwatch.org/feed/,WI,Madison,nonprofit,indipendente,en,no,200,"nonprofit investigativa statale, forte su elezioni"
+The Cap Times,https://captimes.com,https://captimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,WI,Madison,quotidiano_locale,indipendente,en,misto,429,"da verificare da USA (429 rate limit); feed BLOX dedotto; progressista"
+Wisconsin State Journal,https://madison.com,https://madison.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc,WI,Madison,quotidiano_locale,Lee,en,si,200,"feed BLOX dedotto (429 in verifica), da verificare da USA"
+Green Bay Press-Gazette,https://www.greenbaypressgazette.com,,WI,Green Bay,quotidiano_locale,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+Wausau Pilot & Review,https://wausaupilotandreview.com,https://wausaupilotandreview.com/feed/,WI,Wausau,nonprofit,indipendente,en,no,403,"da verificare da USA (403); nonprofit locale Wausau/Marathon County"
+Wisconsin Public Radio,https://www.wpr.org,https://www.wpr.org/feed,WI,Madison,nonprofit,indipendente,en,no,200,"radio pubblica, copre anche zone rurali"
+WISN 12,https://www.wisn.com,https://www.wisn.com/topstories-rss,WI,Milwaukee,tv_locale,Hearst TV,en,no,451,"da verificare da USA (451 geoblocco UE); feed Hearst dedotto; ABC Milwaukee"
+TMJ4,https://www.tmj4.com,https://www.tmj4.com/index.rss,WI,Milwaukee,tv_locale,Scripps,en,no,200,NBC Milwaukee
+Urban Milwaukee,https://urbanmilwaukee.com,https://urbanmilwaukee.com/feed/,WI,Milwaukee,quotidiano_locale,indipendente,en,misto,200,digitale su politica cittadina e sviluppo urbano
+Wisconsin Examiner,https://wisconsinexaminer.com,https://wisconsinexaminer.com/feed/,WI,Madison,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+La Crosse Tribune,https://lacrossetribune.com,https://lacrossetribune.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc,WI,La Crosse,quotidiano_locale,Lee,en,si,200,Wisconsin occidentale e rurale
+Milwaukee Neighborhood News Service,https://milwaukeenns.org,https://milwaukeenns.org/feed/,WI,Milwaukee,nonprofit,indipendente,en,no,200,quartieri di Milwaukee sottorappresentati
+Isthmus,https://isthmus.com,https://isthmus.com/api/rss/content.rss,WI,Madison,settimanale_alt,indipendente,en,no,200,"alt-weekly di Madison, ora nonprofit"
+WBAY Action 2 News,https://www.wbay.com,https://www.wbay.com/arc/outboundfeeds/rss/?outputType=xml,WI,Green Bay,tv_locale,Gray,en,no,200,ABC Green Bay/Fox Valley
+Door County Pulse,https://doorcountypulse.com,https://doorcountypulse.com/feed/,WI,Door County,citta_contea,indipendente,en,no,403,"da verificare da USA (403); feed dedotto; settimanale di contea"
+WXPR,https://www.wxpr.org,https://www.wxpr.org/news.rss,WI,Rhinelander,nonprofit,indipendente,en,no,200,"radio pubblica del nord Wisconsin rurale"
+Eau Claire Leader-Telegram,https://www.leadertelegram.com,https://www.leadertelegram.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,WI,Eau Claire,quotidiano_locale,Adams,en,si,451,"da verificare da USA (451 geoblocco UE); feed BLOX dedotto"
+WSAW NewsChannel 7,https://www.wsaw.com,https://www.wsaw.com/arc/outboundfeeds/rss/?outputType=xml,WI,Wausau,tv_locale,Gray,en,no,200,CBS Wausau / Wisconsin centrale
+Cleveland.com / The Plain Dealer,https://www.cleveland.com,https://www.cleveland.com/arc/outboundfeeds/rss/?outputType=xml,OH,Cleveland,quotidiano_metro,Advance,en,misto,403,"da verificare da USA (403 homepage, feed ok)"
+Signal Cleveland,https://signalcleveland.org,https://signalcleveland.org/feed/,OH,Cleveland,nonprofit,American Journalism Project,en,no,200,nonprofit civica di Cleveland
+Signal Akron,https://signalakron.org,https://signalakron.org/feed/,OH,Akron,nonprofit,American Journalism Project,en,no,200,nonprofit civica di Akron
+The Columbus Dispatch,https://www.dispatch.com,,OH,Columbus,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+The Cincinnati Enquirer,https://www.cincinnati.com,,OH,Cincinnati,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+Dayton Daily News,https://www.daytondailynews.com,,OH,Dayton,quotidiano_metro,Cox Media Group,en,si,200,"senza feed trovato (429 sui percorsi)"
+The Toledo Blade,https://www.toledoblade.com,https://www.toledoblade.com/rss/,OH,Toledo,quotidiano_locale,Block Communications,en,si,200,
+WCPO 9,https://www.wcpo.com,https://www.wcpo.com/index.rss,OH,Cincinnati,tv_locale,Scripps,en,no,200,"ABC Cincinnati; feed con pochi elementi"
+NBC4 WCMH,https://www.nbc4i.com,https://www.nbc4i.com/feed/,OH,Columbus,tv_locale,Nexstar,en,no,403,"da verificare da USA (403 homepage, feed ok)"
+Ohio Capital Journal,https://ohiocapitaljournal.com,https://ohiocapitaljournal.com/feed/,OH,Columbus,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+The Vindicator,https://www.vindy.com,https://www.vindy.com/feed/,OH,Youngstown,quotidiano_locale,Ogden,en,misto,200,Mahoning Valley
+Cleveland Scene,https://www.clevescene.com,https://www.clevescene.com/feed/,OH,Cleveland,settimanale_alt,indipendente,en,no,200,alt-weekly di Cleveland
+Marietta Times,https://www.mariettatimes.com,https://www.mariettatimes.com/feed/,OH,Marietta,citta_contea,Ogden,en,misto,200,Ohio appalachiano rurale
+Statehouse News Bureau,https://www.statenews.org,https://www.statenews.org/news.rss,OH,Columbus,nonprofit,indipendente,en,no,200,"redazione delle radio pubbliche dell'Ohio sulla politica statale"
+Chicago Tribune,https://www.chicagotribune.com,https://www.chicagotribune.com/feed/,IL,Chicago,quotidiano_metro,Alden/MediaNews,en,si,403,"da verificare da USA (403); feed WordPress dedotto"
+Chicago Sun-Times,https://chicago.suntimes.com,https://chicago.suntimes.com/rss/index.xml,IL,Chicago,quotidiano_metro,indipendente,en,no,200,"Chicago Public Media (con WBEZ), nonprofit"
+Block Club Chicago,https://blockclubchicago.org,https://blockclubchicago.org/feed/,IL,Chicago,nonprofit,indipendente,en,misto,200,iper-locale di quartiere
+Chicago Reader,https://chicagoreader.com,https://chicagoreader.com/feed/,IL,Chicago,settimanale_alt,indipendente,en,no,200,"alt-weekly storico, ora nonprofit"
+NBC 5 Chicago,https://www.nbcchicago.com,https://www.nbcchicago.com/?rss=y,IL,Chicago,tv_locale,Telemundo/NBCU,en,no,200,NBC owned
+ABC7 Chicago,https://abc7chicago.com,https://abc7chicago.com/feed/,IL,Chicago,tv_locale,ABC/Disney,en,no,200,ABC owned
+Telemundo Chicago,https://www.telemundochicago.com,https://www.telemundochicago.com/?rss=y,IL,Chicago,tv_locale,Telemundo/NBCU,es,no,200,
+Univision Chicago,https://www.univision.com/local/chicago-wgbo,,IL,Chicago,tv_locale,Univision/TelevisaUnivision,es,no,200,senza feed
+La Raza,https://laraza.com,https://laraza.com/feed/,IL,Chicago,quotidiano_locale,Impremedia,es,no,200,"attiva; feed include anche contenuti nazionali Impremedia"
+Lawndale News,http://www.lawndalenews.com,http://www.lawndalenews.com/feed/,IL,Cicero,citta_contea,indipendente,es,no,SSLError,"bilingue, comunita latine del West Side; https con errore SSL, usare http"
+Borderless Magazine,https://borderlessmag.org,https://borderlessmag.org/feed/,IL,Chicago,nonprofit,indipendente,en,no,200,immigrazione nel Midwest
+The TRiiBE,https://thetriibe.com,https://thetriibe.com/feed/,IL,Chicago,citta_contea,indipendente,en,no,200,Chicago nera
+Capitol News Illinois,https://capitolnewsillinois.com,https://capitolnewsillinois.com/feed/,IL,Springfield,nonprofit,indipendente,en,no,200,politica statale
+The Pantagraph,https://pantagraph.com,http://pantagraph.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory,IL,Bloomington,quotidiano_locale,Lee,en,si,200,Illinois centrale agricolo
+The News-Gazette,https://www.news-gazette.com,https://www.news-gazette.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,IL,Champaign,quotidiano_locale,indipendente,en,si,200,
+WCIA 3,https://www.wcia.com,https://www.wcia.com/feed/,IL,Champaign,tv_locale,Nexstar,en,no,403,"da verificare da USA (403 homepage, feed ok)"
+Belleville News-Democrat,https://www.bnd.com,,IL,Belleville,quotidiano_locale,McClatchy,en,si,timeout,"da verificare da USA (timeout); feed McClatchy widget da individuare"
+Investigate Midwest,https://www.investigatemidwest.org,https://www.investigatemidwest.org/feed/,IL,Urbana,nonprofit,indipendente,en,no,200,"inchieste su agroindustria e zone rurali del Midwest"
+Daily Herald,https://www.dailyherald.com,,IL,Arlington Heights,quotidiano_locale,indipendente,en,si,200,"sobborghi di Chicago; senza feed"
+The Indianapolis Star,https://www.indystar.com,,IN,Indianapolis,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+Mirror Indy,https://mirrorindy.org,https://mirrorindy.org/feed/,IN,Indianapolis,nonprofit,American Journalism Project,en,no,200,
+Indiana Capital Chronicle,https://indianacapitalchronicle.com,https://indianacapitalchronicle.com/feed/,IN,Indianapolis,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+WTHR 13,https://www.wthr.com,https://www.wthr.com/feeds/syndication/rss/news,IN,Indianapolis,tv_locale,TEGNA,en,no,timeout,"da verificare da USA (timeout); feed TEGNA dedotto; NBC Indianapolis"
+The Times of Northwest Indiana,https://nwitimes.com,https://nwitimes.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,IN,Munster,quotidiano_locale,Lee,en,si,200,
+The Journal Gazette,https://www.journalgazette.net,,IN,Fort Wayne,quotidiano_locale,indipendente,en,si,451,"da verificare da USA (451 geoblocco UE); feed da individuare"
+WNDU 16,https://www.wndu.com,https://www.wndu.com/arc/outboundfeeds/rss/?outputType=xml,IN,South Bend,tv_locale,Gray,en,no,200,NBC South Bend
+Terre Haute Tribune-Star,https://www.tribstar.com,https://www.tribstar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,IN,Terre Haute,quotidiano_locale,CNHI,en,si,451,"da verificare da USA (451 geoblocco UE); feed BLOX dedotto"
+Star Tribune,https://www.startribune.com,https://www.startribune.com/rss,MN,Minneapolis,quotidiano_metro,indipendente,en,si,429,"da verificare da USA (429 homepage, feed ok)"
+Pioneer Press,https://www.twincities.com,https://www.twincities.com/feed/,MN,St. Paul,quotidiano_metro,Alden/MediaNews,en,si,200,"feed WordPress dedotto (403 in verifica)"
+Sahan Journal,https://sahanjournal.com,https://sahanjournal.com/feed/,MN,Minneapolis,nonprofit,indipendente,en,no,200,immigrati e comunita di colore del Minnesota
+Minnesota Reformer,https://minnesotareformer.com,https://minnesotareformer.com/feed/,MN,St. Paul,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+MPR News,https://www.mprnews.org,https://www.mprnews.org/feed/homepage,MN,St. Paul,nonprofit,indipendente,en,no,200,radio pubblica statale
+KARE 11,https://www.kare11.com,https://www.kare11.com/feeds/syndication/rss/news,MN,Minneapolis,tv_locale,TEGNA,en,no,timeout,"da verificare da USA (timeout); feed TEGNA dedotto; NBC Twin Cities"
+Duluth News Tribune,https://www.duluthnewstribune.com,https://www.duluthnewstribune.com/index.rss,MN,Duluth,quotidiano_locale,Forum Communications,en,misto,200,Minnesota settentrionale
+MinnPost,https://www.minnpost.com,https://www.minnpost.com/feed/,MN,Minneapolis,nonprofit,indipendente,en,no,200,
+The Free Press,https://www.mankatofreepress.com,https://www.mankatofreepress.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,MN,Mankato,quotidiano_locale,CNHI,en,si,451,"da verificare da USA (451 geoblocco UE); feed BLOX dedotto; Minnesota meridionale agricolo"
+The Des Moines Register,https://www.desmoinesregister.com,,IA,Des Moines,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+Iowa Capital Dispatch,https://iowacapitaldispatch.com,https://iowacapitaldispatch.com/feed/,IA,Des Moines,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale e agricoltura"
+The Gazette,https://www.thegazette.com,,IA,Cedar Rapids,quotidiano_locale,indipendente,en,si,451,"da verificare da USA (451 geoblocco UE); feed da individuare"
+KCCI 8,https://www.kcci.com,https://www.kcci.com/topstories-rss,IA,Des Moines,tv_locale,Hearst TV,en,no,451,"da verificare da USA (451 geoblocco UE); feed Hearst dedotto; CBS Des Moines"
+Sioux City Journal,https://siouxcityjournal.com,https://siouxcityjournal.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc,IA,Sioux City,quotidiano_locale,Lee,en,si,200,Iowa occidentale
+Iowa Public Radio,https://www.iowapublicradio.org,https://www.iowapublicradio.org/news.rss,IA,Des Moines,nonprofit,indipendente,en,no,200,radio pubblica statale
+Storm Lake Times Pilot,https://www.stormlake.com,,IA,Storm Lake,citta_contea,indipendente,en,si,200,"giornale di contea rurale (Pulitzer 2017); senza feed (403 su rss)"
+Harlan News-Advertiser / Tribune,https://www.harlanonline.com,https://www.harlanonline.com/rss.xml,IA,Harlan,citta_contea,indipendente,en,misto,200,settimanali della Shelby County agricola
+St. Louis Post-Dispatch,https://www.stltoday.com,https://www.stltoday.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc,MO,St. Louis,quotidiano_metro,Lee,en,si,200,
+The Kansas City Star,https://www.kansascity.com,,MO,Kansas City,quotidiano_metro,McClatchy,en,si,timeout,"da verificare da USA (timeout); feed McClatchy widget da individuare"
+Missouri Independent,https://missouriindependent.com,https://missouriindependent.com/feed/,MO,Jefferson City,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+St. Louis Public Radio,https://www.stlpr.org,https://www.stlpr.org/news.rss,MO,St. Louis,nonprofit,indipendente,en,no,200,
+KCUR 89.3,https://www.kcur.org,https://www.kcur.org/news.rss,MO,Kansas City,nonprofit,indipendente,en,no,200,radio pubblica di Kansas City
+Riverfront Times,https://www.riverfronttimes.com,https://www.riverfronttimes.com/feed/,MO,St. Louis,settimanale_alt,indipendente,en,no,403,"da verificare da USA (403); feed dedotto"
+KSDK 5,https://www.ksdk.com,https://www.ksdk.com/feeds/syndication/rss/news,MO,St. Louis,tv_locale,TEGNA,en,no,timeout,"da verificare da USA (timeout); feed TEGNA dedotto; NBC St. Louis"
+The Beacon,https://thebeaconnews.org,https://thebeaconnews.org/feed/,MO,Kansas City,nonprofit,indipendente,en,no,200,"nonprofit su Kansas City e Wichita"
+Dos Mundos,https://dosmundos.com,https://dosmundos.com/feed/,MO,Kansas City,citta_contea,indipendente,es,no,200,bilingue per la comunita latina di Kansas City
+Southeast Missourian,https://www.semissourian.com,https://www.semissourian.com/rss.xml,MO,Cape Girardeau,quotidiano_locale,Rust Communications,en,si,200,Missouri sud-orientale rurale
+Kansas Reflector,https://kansasreflector.com,https://kansasreflector.com/feed/,KS,Topeka,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+The Wichita Eagle,https://www.kansas.com,,KS,Wichita,quotidiano_metro,McClatchy,en,si,timeout,"da verificare da USA (timeout); feed McClatchy widget da individuare"
+Topeka Capital-Journal,https://www.cjonline.com,,KS,Topeka,quotidiano_locale,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+KSN,https://www.ksn.com,https://www.ksn.com/feed/,KS,Wichita,tv_locale,Nexstar,en,no,403,"da verificare da USA (403 homepage, feed ok); NBC Wichita"
+High Plains Public Radio,https://www.hppr.org,https://www.hppr.org/news.rss,KS,Garden City,nonprofit,indipendente,en,no,200,Kansas occidentale rurale e High Plains
+Marion County Record,https://www.marionrecord.com,https://marionrecord.com/rss.cgi,KS,Marion,citta_contea,indipendente,en,misto,200,settimanale di contea (noto per il raid della polizia 2023)
+Omaha World-Herald,https://omaha.com,http://omaha.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory,NE,Omaha,quotidiano_metro,Lee,en,si,200,
+Nebraska Examiner,https://nebraskaexaminer.com,https://nebraskaexaminer.com/feed/,NE,Lincoln,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+KETV 7,https://www.ketv.com,https://www.ketv.com/topstories-rss,NE,Omaha,tv_locale,Hearst TV,en,no,451,"da verificare da USA (451 geoblocco UE); feed Hearst dedotto; ABC Omaha"
+Lincoln Journal Star,https://journalstar.com,http://journalstar.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory,NE,Lincoln,quotidiano_locale,Lee,en,si,200,
+Flatwater Free Press,https://flatwaterfreepress.org,https://flatwaterfreepress.org/feed/,NE,Omaha,nonprofit,indipendente,en,no,200,nonprofit investigativa statale
+Kearney Hub,https://kearneyhub.com,http://kearneyhub.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory,NE,Kearney,quotidiano_locale,Lee,en,si,200,Nebraska centrale agricolo
+Argus Leader,https://www.argusleader.com,,SD,Sioux Falls,quotidiano_locale,Gannett,en,si,402,"da verificare da USA (402); feed Gannett da individuare"
+South Dakota Searchlight,https://southdakotasearchlight.com,https://southdakotasearchlight.com/feed/,SD,Pierre,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale"
+KELOLAND News,https://www.keloland.com,https://www.keloland.com/feed/,SD,Sioux Falls,tv_locale,Nexstar,en,no,403,"da verificare da USA (403 homepage, feed ok); CBS Sioux Falls"
+Rapid City Journal,https://rapidcityjournal.com,https://rapidcityjournal.com/rss,SD,Rapid City,quotidiano_locale,Lee,en,si,200,"West River e Black Hills, riserve native"
+Mitchell Republic,https://www.mitchellrepublic.com,https://www.mitchellrepublic.com/index.rss,SD,Mitchell,citta_contea,Forum Communications,en,misto,200,South Dakota rurale e agricolo
+Bismarck Tribune,https://bismarcktribune.com,https://bismarcktribune.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc,ND,Bismarck,quotidiano_locale,Lee,en,si,200,capitale statale
+InForum / The Forum,https://www.inforum.com,https://www.inforum.com/index.rss,ND,Fargo,quotidiano_locale,Forum Communications,en,misto,200,
+North Dakota Monitor,https://northdakotamonitor.com,https://northdakotamonitor.com/feed/,ND,Bismarck,nonprofit,States Newsroom,en,no,403,"da verificare da USA (403); politica statale ed energia"
+KFYR TV,https://www.kfyrtv.com,https://www.kfyrtv.com/arc/outboundfeeds/rss/?outputType=xml,ND,Bismarck,tv_locale,Gray,en,no,200,NBC Bismarck e zona petrolifera
+Grand Forks Herald,https://www.grandforksherald.com,https://www.grandforksherald.com/index.rss,ND,Grand Forks,quotidiano_locale,Forum Communications,en,misto,200,
+Agweek,https://www.agweek.com,https://www.agweek.com/index.rss,ND,Fargo,citta_contea,Forum Communications,en,misto,200,"agricoltura delle Grandi Pianure (ND SD MN)"

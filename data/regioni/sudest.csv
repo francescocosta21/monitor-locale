@@ -1,0 +1,111 @@
+nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
+Richmond Times-Dispatch,https://richmond.com,https://richmond.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory,VA,Richmond,quotidiano_metro,Lee,en,si,200,principale quotidiano della capitale; feed top stories BLOX
+The Virginian-Pilot,https://www.pilotonline.com,https://www.pilotonline.com/feed/,VA,Norfolk,quotidiano_metro,Alden/MediaNews,en,si,403,"Hampton Roads, basi navali; feed dedotto, da verificare da USA (403)"
+Virginia Mercury,https://virginiamercury.com,https://virginiamercury.com/feed/,VA,Richmond,nonprofit,States Newsroom,en,no,403,forte su politica statale; da verificare da USA (403 anti-bot)
+Cardinal News,https://cardinalnews.org,https://cardinalnews.org/feed/,VA,Roanoke,nonprofit,indipendente,en,no,200,"Virginia sud-occidentale e rurale, Appalachia"
+The Roanoke Times,https://roanoke.com,https://roanoke.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,VA,Roanoke,quotidiano_locale,Lee,en,si,200,Virginia occidentale
+Charlottesville Tomorrow,https://www.cvilletomorrow.org,https://www.cvilletomorrow.org/feed/,VA,Charlottesville,nonprofit,indipendente,en,no,200,"nonprofit civica, membro INN"
+C-Ville Weekly,https://www.c-ville.com,https://c-ville.com/feed/,VA,Charlottesville,settimanale_alt,indipendente,en,no,200,alt-weekly di Charlottesville
+WAVY 10,https://www.wavy.com,https://www.wavy.com/feed/,VA,Portsmouth/Norfolk,tv_locale,Nexstar,en,no,403,NBC Hampton Roads; feed funziona nonostante 403 homepage
+Mountain State Spotlight,https://mountainstatespotlight.org,https://mountainstatespotlight.org/feed/,WV,Charleston,nonprofit,indipendente,en,no,200,"inchieste statali, membro INN"
+Charleston Gazette-Mail,https://www.wvgazettemail.com,https://www.wvgazettemail.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,WV,Charleston,quotidiano_locale,HD Media,en,si,451,"Pulitzer 2017 su oppioidi; feed BLOX dedotto, da verificare da USA (451 geoblocco UE)"
+WV MetroNews,https://wvmetronews.com,https://wvmetronews.com/feed/,WV,Charleston,quotidiano_locale,West Virginia Radio Corp.,en,no,200,"rete radio statale, news quotidiane su tutto lo stato"
+WSAZ,https://www.wsaz.com,https://www.wsaz.com/arc/outboundfeeds/rss/?outputType=xml,WV,Huntington,tv_locale,Gray,en,no,200,NBC Huntington-Charleston
+West Virginia Watch,https://westvirginiawatch.com,https://westvirginiawatch.com/feed/,WV,Charleston,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+The Dominion Post,https://www.dominionpost.com,https://www.dominionpost.com/feed/,WV,Morgantown,quotidiano_locale,indipendente,en,misto,200,quotidiano di Morgantown (WVU)
+The News & Observer,https://www.newsobserver.com,https://www.newsobserver.com/news/local/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,NC,Raleigh,quotidiano_metro,McClatchy,en,si,timeout,feed McClatchy dedotto; da verificare da USA (timeout da IP UE)
+The Charlotte Observer,https://www.charlotteobserver.com,https://www.charlotteobserver.com/news/local/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,NC,Charlotte,quotidiano_metro,McClatchy,en,si,timeout,feed McClatchy dedotto; da verificare da USA (timeout da IP UE)
+The Assembly,https://www.theassemblync.com,https://www.theassemblync.com/feed/,NC,Raleigh,nonprofit,indipendente,en,misto,200,magazine digitale di inchieste e long-form sul NC
+NC Newsline,https://ncnewsline.com,https://ncnewsline.com/feed/,NC,Raleigh,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+WRAL,https://www.wral.com,https://www.wral.com/news/rss/48/,NC,Raleigh,tv_locale,Capitol Broadcasting,en,no,200,TV locale indipendente molto forte; feed trovato a mano
+WBTV,https://www.wbtv.com,https://www.wbtv.com/arc/outboundfeeds/rss/?outputType=xml,NC,Charlotte,tv_locale,Gray,en,no,200,CBS Charlotte
+Greensboro News & Record,https://greensboro.com,https://greensboro.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,NC,Greensboro,quotidiano_locale,Lee,en,si,200,Triad
+Asheville Citizen-Times,https://www.citizen-times.com,,NC,Asheville,quotidiano_locale,Gannett,en,si,402,senza feed (Gannett ha dismesso gli RSS); da UE redirige a eu.; da verificare da USA (402)
+Asheville Watchdog,https://avlwatchdog.org,https://avlwatchdog.org/feed/,NC,Asheville,nonprofit,indipendente,en,no,200,"inchieste, ricostruzione post-uragano Helene"
+Port City Daily,https://portcitydaily.com,https://portcitydaily.com/feed/,NC,Wilmington,citta_contea,indipendente,en,misto,200,notizie quotidiane di Wilmington e costa
+The Fayetteville Observer,https://www.fayobserver.com,,NC,Fayetteville,quotidiano_locale,Gannett,en,si,200,senza feed (Gannett); Fort Bragg/area militare; da UE redirige a eu.
+INDY Week,https://indyweek.com,https://indyweek.com/feed/,NC,Durham,settimanale_alt,indipendente,en,no,200,alt-weekly del Triangle
+Queen City Nerve,https://qcnerve.com,https://qcnerve.com/feed/,NC,Charlotte,settimanale_alt,indipendente,en,no,200,alt-weekly di Charlotte
+Border Belt Independent,https://borderbelt.org,https://borderbelt.org/feed/,NC,Whiteville,nonprofit,indipendente,en,no,200,"NC rurale sud-orientale (Robeson, Columbus...)"
+Enlace Latino NC,https://enlacelatinonc.org,https://enlacelatinonc.org/feed/,NC,Raleigh,nonprofit,indipendente,es,no,200,nonprofit in spagnolo per latini del NC
+The Post and Courier,https://www.postandcourier.com,https://www.postandcourier.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,SC,Charleston,quotidiano_metro,Evening Post Industries,en,si,200,Pulitzer 2015; feed BLOX dedotto (429 rate limit in verifica)
+The State,https://www.thestate.com,https://www.thestate.com/news/local/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,SC,Columbia,quotidiano_metro,McClatchy,en,si,timeout,feed McClatchy dedotto; da verificare da USA (timeout da IP UE)
+The Greenville News,https://www.greenvilleonline.com,,SC,Greenville,quotidiano_locale,Gannett,en,si,402,senza feed (Gannett); Upstate SC; da verificare da USA (402)
+SC Daily Gazette,https://scdailygazette.com,https://scdailygazette.com/feed/,SC,Columbia,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+WIS,https://www.wistv.com,https://www.wistv.com/arc/outboundfeeds/rss/?outputType=xml,SC,Columbia,tv_locale,Gray,en,no,200,NBC Columbia
+Charleston City Paper,https://charlestoncitypaper.com,https://charlestoncitypaper.com/feed/,SC,Charleston,settimanale_alt,indipendente,en,no,200,alt-weekly di Charleston
+The Atlanta Journal-Constitution,https://www.ajc.com,,GA,Atlanta,quotidiano_metro,Cox Enterprises,en,si,200,"senza feed (nessun RSS ufficiale), usare homepage; principale fonte del Georgia"
+Georgia Recorder,https://georgiarecorder.com,https://georgiarecorder.com/feed/,GA,Atlanta,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+The Current GA,https://thecurrentga.org,https://thecurrentga.org/feed/,GA,Savannah,nonprofit,indipendente,en,no,200,"inchieste costa del Georgia (Savannah, Brunswick)"
+Savannah Morning News,https://www.savannahnow.com,,GA,Savannah,quotidiano_locale,Gannett,en,si,402,senza feed (Gannett); da verificare da USA (402)
+WTOC,https://www.wtoc.com,https://www.wtoc.com/arc/outboundfeeds/rss/?outputType=xml,GA,Savannah,tv_locale,Gray,en,no,200,CBS Savannah
+The Telegraph,https://www.macon.com,https://www.macon.com/news/local/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,GA,Macon,quotidiano_locale,McClatchy,en,si,timeout,Georgia centrale; feed McClatchy dedotto; da verificare da USA (timeout)
+The Augusta Chronicle,https://www.augustachronicle.com,,GA,Augusta,quotidiano_locale,Gannett,en,si,402,senza feed (Gannett); da verificare da USA (402)
+Athens Banner-Herald,https://www.onlineathens.com,,GA,Athens,quotidiano_locale,Gannett,en,si,402,senza feed (Gannett); da verificare da USA (402)
+Flagpole,https://flagpole.com,https://flagpole.com/feed/,GA,Athens,settimanale_alt,indipendente,en,no,403,"alt-weekly di Athens; feed dedotto, da verificare da USA (403)"
+Columbus Ledger-Enquirer,https://www.ledger-enquirer.com,https://www.ledger-enquirer.com/news/local/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,GA,Columbus,quotidiano_locale,McClatchy,en,si,timeout,Fort Moore; feed McClatchy dedotto; da verificare da USA (timeout)
+WSB-TV,https://www.wsbtv.com,https://www.wsbtv.com/arc/outboundfeeds/rss/?outputType=xml,GA,Atlanta,tv_locale,Cox Media Group,en,no,200,"ABC Atlanta; homepage da UE redirige a pagina di blocco, feed ok"
+Atlanta News First,https://www.atlantanewsfirst.com,https://www.atlantanewsfirst.com/arc/outboundfeeds/rss/?outputType=xml,GA,Atlanta,tv_locale,Gray,en,no,200,CBS Atlanta (ex CBS46)
+Capital B Atlanta,https://atlanta.capitalbnews.org,https://atlanta.capitalbnews.org/feed/,GA,Atlanta,nonprofit,indipendente,en,no,200,nonprofit su comunità nera di Atlanta
+The Albany Herald,https://www.albanyherald.com,https://www.albanyherald.com/feed/,GA,Albany,quotidiano_locale,Southern Community Newspapers,en,misto,403,Georgia sud-occidentale rurale; feed funziona
+Valdosta Daily Times,https://www.valdostadailytimes.com,https://valdostadailytimes.com/feed/,GA,Valdosta,citta_contea,CNHI,en,misto,200,Georgia meridionale rurale
+Mundo Hispánico,https://mundohispanico.com,,GA,Atlanta,quotidiano_locale,indipendente,es,no,200,"storico giornale ispanico di Atlanta; senza feed, usare homepage"
+Miami Herald,https://www.miamiherald.com,https://www.miamiherald.com/news/local/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,FL,Miami,quotidiano_metro,McClatchy,en,si,timeout,feed McClatchy dedotto; da verificare da USA (timeout da IP UE)
+El Nuevo Herald,https://www.elnuevoherald.com,https://www.elnuevoherald.com/noticias/sur-de-florida/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,FL,Miami,quotidiano_metro,McClatchy,es,si,timeout,principale quotidiano in spagnolo; feed dedotto; da verificare da USA (timeout)
+Tampa Bay Times,https://www.tampabay.com,https://www.tampabay.com/arc/outboundfeeds/rss/?outputType=xml,FL,St. Petersburg,quotidiano_metro,indipendente (Poynter),en,si,200,molti Pulitzer; feed Arc 40+ elementi
+Orlando Sentinel,https://www.orlandosentinel.com,https://www.orlandosentinel.com/feed/,FL,Orlando,quotidiano_metro,Alden/MediaNews,en,si,403,feed dedotto; da verificare da USA (403)
+South Florida Sun Sentinel,https://www.sun-sentinel.com,https://www.sun-sentinel.com/feed/,FL,Fort Lauderdale,quotidiano_metro,Alden/MediaNews,en,si,403,feed dedotto; da verificare da USA (403)
+The Florida Times-Union,https://www.jacksonville.com,,FL,Jacksonville,quotidiano_metro,Gannett,en,si,402,senza feed (Gannett); da verificare da USA (402)
+Jacksonville Today,https://jaxtoday.org,https://jaxtoday.org/feed/,FL,Jacksonville,nonprofit,WJCT Public Media,en,no,200,newsroom locale di WJCT
+Tallahassee Democrat,https://www.tallahassee.com,,FL,Tallahassee,quotidiano_locale,Gannett,en,si,402,capitale/Panhandle; senza feed (Gannett); da verificare da USA (402)
+Pensacola News Journal,https://www.pnj.com,,FL,Pensacola,quotidiano_locale,Gannett,en,si,402,Panhandle occidentale; senza feed (Gannett); da verificare da USA (402)
+WEAR ABC 3,https://weartv.com,https://weartv.com/news/local.rss,FL,Pensacola,tv_locale,Sinclair,en,no,200,Panhandle; feed trovato a mano
+Florida Phoenix,https://floridaphoenix.com,https://floridaphoenix.com/feed/,FL,Tallahassee,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+WLRN,https://www.wlrn.org,https://www.wlrn.org/south-florida.rss,FL,Miami,nonprofit,WLRN Public Media,en,no,200,"radio pubblica, partner del Miami Herald; forte su America Latina"
+Miami New Times,https://www.miaminewtimes.com,https://www.miaminewtimes.com/feed/,FL,Miami,settimanale_alt,Voice Media Group,en,no,200,alt-weekly di Miami
+Creative Loafing Tampa Bay,https://www.cltampa.com,https://www.cltampa.com/feed/,FL,Tampa,settimanale_alt,indipendente,en,no,200,alt-weekly di Tampa
+Local 10 (WPLG),https://www.local10.com,https://www.local10.com/arc/outboundfeeds/rss/?outputType=xml,FL,Miami,tv_locale,Graham Media,en,no,200,ABC Miami; feed 100 elementi
+WFTV Channel 9,https://www.wftv.com,https://www.wftv.com/arc/outboundfeeds/rss/?outputType=xml,FL,Orlando,tv_locale,Cox Media Group,en,no,200,"ABC Orlando; homepage da UE redirige a pagina di blocco, feed ok"
+Telemundo 51,https://www.telemundo51.com,https://www.telemundo51.com/?rss=y,FL,Miami,tv_locale,Telemundo/NBCU,es,no,200,TV in spagnolo del Sud Florida
+Diario Las Américas,https://www.diariolasamericas.com,https://www.diariolasamericas.com/rss/pages/florida.xml,FL,Miami,quotidiano_locale,indipendente,es,no,200,"quotidiano in spagnolo, forte su Cuba/Venezuela; feed sezione Florida"
+Suncoast Searchlight,https://suncoastsearchlight.org,https://suncoastsearchlight.org/feed/,FL,Sarasota,nonprofit,indipendente,en,no,200,inchieste Sarasota/Manatee/DeSoto
+The Palm Beach Post,https://www.palmbeachpost.com,,FL,West Palm Beach,quotidiano_locale,Gannett,en,si,402,Mar-a-Lago; senza feed (Gannett); da verificare da USA (402)
+AL.com,https://www.al.com,https://www.al.com/arc/outboundfeeds/rss/?outputType=xml,AL,Birmingham,quotidiano_metro,Advance,en,no,403,ex Birmingham News/Huntsville Times/Mobile Press-Register; feed ok nonostante 403
+Alabama Reflector,https://alabamareflector.com,https://alabamareflector.com/feed/,AL,Montgomery,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+Montgomery Advertiser,https://www.montgomeryadvertiser.com,,AL,Montgomery,quotidiano_locale,Gannett,en,si,402,senza feed (Gannett); da verificare da USA (402)
+Alabama Political Reporter,https://www.alreporter.com,https://www.alreporter.com/feed/,AL,Montgomery,quotidiano_locale,indipendente,en,no,200,"politica statale, digitale"
+WSFA 12,https://www.wsfa.com,https://www.wsfa.com/arc/outboundfeeds/rss/?outputType=xml,AL,Montgomery,tv_locale,Gray,en,no,200,NBC Montgomery
+BirminghamWatch,https://birminghamwatch.org,https://birminghamwatch.org/feed/,AL,Birmingham,nonprofit,indipendente,en,no,200,"nonprofit di inchiesta, membro INN"
+Mississippi Today,https://mississippitoday.org,https://mississippitoday.org/feed/,MS,Jackson,nonprofit,indipendente,en,no,200,Pulitzer 2023 (scandalo welfare)
+Mississippi Free Press,https://www.mississippifreepress.org,https://www.mississippifreepress.org/feed/,MS,Jackson,nonprofit,indipendente,en,no,200,"nonprofit, giustizia e diritti civili"
+Clarion Ledger,https://www.clarionledger.com,,MS,Jackson,quotidiano_locale,Gannett,en,si,402,senza feed (Gannett); da verificare da USA (402)
+Sun Herald,https://www.sunherald.com,https://www.sunherald.com/news/local/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,MS,Biloxi,quotidiano_locale,McClatchy,en,si,timeout,costa del Golfo; feed McClatchy dedotto; da verificare da USA (timeout)
+WLBT 3,https://www.wlbt.com,https://www.wlbt.com/arc/outboundfeeds/rss/?outputType=xml,MS,Jackson,tv_locale,Gray,en,no,200,NBC Jackson
+Northeast Mississippi Daily Journal,https://www.djournal.com,https://www.djournal.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,MS,Tupelo,quotidiano_locale,Journal Inc.,en,misto,200,Mississippi nord-orientale; feed BLOX dedotto (429 rate limit in verifica)
+The Tennessean,https://www.tennessean.com,,TN,Nashville,quotidiano_metro,Gannett,en,si,402,senza feed (Gannett); da verificare da USA (402)
+Tennessee Lookout,https://tennesseelookout.com,https://tennesseelookout.com/feed/,TN,Nashville,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+Nashville Banner,https://nashvillebanner.com,https://nashvillebanner.com/feed/,TN,Nashville,nonprofit,indipendente,en,no,200,nonprofit rilanciata nel 2023
+Nashville Scene,https://www.nashvillescene.com,https://www.nashvillescene.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,TN,Nashville,settimanale_alt,FW Publishing,en,no,200,alt-weekly; feed BLOX dedotto (429 rate limit in verifica)
+The Daily Memphian,https://dailymemphian.com,https://dailymemphian.com/feed/,TN,Memphis,nonprofit,indipendente,en,si,200,nonprofit digitale con abbonamento
+MLK50,https://mlk50.com,https://mlk50.com/feed/,TN,Memphis,nonprofit,indipendente,en,no,200,"povertà, lavoro e giustizia a Memphis"
+WREG News Channel 3,https://wreg.com,https://wreg.com/feed/,TN,Memphis,tv_locale,Nexstar,en,no,403,CBS Memphis; feed ok nonostante 403
+WSMV 4,https://www.wsmv.com,https://www.wsmv.com/arc/outboundfeeds/rss/?outputType=xml,TN,Nashville,tv_locale,Gray,en,no,200,NBC Nashville
+Chattanooga Times Free Press,https://www.timesfreepress.com,https://www.timesfreepress.com/rss/headlines/,TN,Chattanooga,quotidiano_locale,WEHCO,en,si,200,feed trovato a mano (150 elementi)
+Knox TN Today,https://www.knoxtntoday.com,https://www.knoxtntoday.com/feed/,TN,Knoxville,citta_contea,indipendente,en,no,200,iper-locale Knoxville e contea di Knox
+Courier Journal,https://www.courier-journal.com,,KY,Louisville,quotidiano_metro,Gannett,en,si,402,senza feed (Gannett); da verificare da USA (402)
+Lexington Herald-Leader,https://www.kentucky.com,https://www.kentucky.com/news/local/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true,KY,Lexington,quotidiano_metro,McClatchy,en,si,timeout,forte su Appalachia orientale; feed McClatchy dedotto; da verificare da USA (timeout)
+Kentucky Lantern,https://kentuckylantern.com,https://kentuckylantern.com/feed/,KY,Frankfort,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+Louisville Public Media / KyCIR,https://www.lpm.org,https://www.lpm.org/index.rss,KY,Louisville,nonprofit,Louisville Public Media,en,no,200,radio pubblica + Kentucky Center for Investigative Reporting
+WKYT,https://www.wkyt.com,https://www.wkyt.com/arc/outboundfeeds/rss/?outputType=xml,KY,Lexington,tv_locale,Gray,en,no,200,"CBS Lexington, copre Kentucky orientale"
+LEO Weekly,https://www.leoweekly.com,https://leoweekly.com/feed/,KY,Louisville,settimanale_alt,indipendente,en,no,200,alt-weekly di Louisville
+Arkansas Democrat-Gazette,https://www.arkansasonline.com,https://www.arkansasonline.com/rss/headlines/,AR,Little Rock,quotidiano_metro,WEHCO,en,si,200,feed trovato a mano (150 elementi)
+Arkansas Times,https://arktimes.com,https://arktimes.com/feed,AR,Little Rock,settimanale_alt,indipendente,en,misto,200,"alt/progressista, molto attivo su politica statale"
+Arkansas Advocate,https://arkansasadvocate.com,https://arkansasadvocate.com/feed/,AR,Little Rock,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+KARK 4,https://www.kark.com,https://www.kark.com/feed/,AR,Little Rock,tv_locale,Nexstar,en,no,403,NBC Little Rock; feed ok nonostante 403
+NOLA.com / The Times-Picayune,https://www.nola.com,https://www.nola.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,LA,New Orleans,quotidiano_metro,Advocate Media (Georges),en,si,200,principale quotidiano di New Orleans
+The Advocate,https://www.theadvocate.com,https://www.theadvocate.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,LA,Baton Rouge,quotidiano_metro,Advocate Media (Georges),en,si,200,stesso gruppo di NOLA.com; feed BLOX dedotto (429 rate limit)
+Louisiana Illuminator,https://lailluminator.com,https://lailluminator.com/feed/,LA,Baton Rouge,nonprofit,States Newsroom,en,no,403,politica statale; da verificare da USA (403 anti-bot)
+The Lens,https://thelensnola.org,https://thelensnola.org/feed/,LA,New Orleans,nonprofit,indipendente,en,no,200,inchieste New Orleans
+Verite News,https://veritenews.org,https://veritenews.org/feed/,LA,New Orleans,nonprofit,indipendente,en,no,403,comunità nere di New Orleans; feed ok nonostante 403
+WWL-TV 4,https://www.wwltv.com,https://www.wwltv.com/feeds/syndication/rss/news,LA,New Orleans,tv_locale,TEGNA,en,no,timeout,CBS New Orleans; feed TEGNA dedotto; da verificare da USA (timeout)
+American Press,https://www.americanpress.com,https://americanpress.com/feed/,LA,Lake Charles,quotidiano_locale,indipendente,en,misto,200,Louisiana sud-occidentale

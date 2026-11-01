@@ -1,0 +1,9 @@
+requests
+feedparser
+beautifulsoup4
+lxml
+openpyxl
+anthropic
+pydantic
+scikit-learn
+numpy

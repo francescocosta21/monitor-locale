@@ -1,0 +1,169 @@
+nome,url_homepage,feed_rss,stato,citta,tipo,gruppo,lingua,paywall,homepage_status,note
+Portland Press Herald,https://www.pressherald.com,https://www.pressherald.com/feed/,ME,Portland,quotidiano_metro,Masthead Maine (National Trust for Local News),en,si,200,principale quotidiano del Maine
+Bangor Daily News,https://www.bangordailynews.com,https://www.bangordailynews.com/feed/,ME,Bangor,quotidiano_locale,indipendente,en,misto,200,"forte su Maine rurale e nord, gestito da nonprofit"
+The Maine Monitor,https://themainemonitor.org,https://themainemonitor.org/feed/,ME,Augusta,nonprofit,indipendente,en,no,200,inchieste statali
+Sun Journal,https://www.sunjournal.com,https://www.sunjournal.com/feed/,ME,Lewiston,quotidiano_locale,Masthead Maine (National Trust for Local News),en,si,200,stesso gruppo del Press Herald: possibili riprese
+WGME CBS 13,https://wgme.com,https://wgme.com/news/local.rss,ME,Portland,tv_locale,Sinclair,en,no,200,feed Sinclair news/local.rss
+Maine Morning Star,https://mainemorningstar.com,https://mainemorningstar.com/feed/,ME,Augusta,nonprofit,States Newsroom,en,no,403,"politica statale; da verificare da USA (403 homepage e feed)"
+New Hampshire Union Leader,https://www.unionleader.com,https://www.unionleader.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,NH,Manchester,quotidiano_metro,indipendente,en,misto,200,principale quotidiano del NH; feed BLOX
+Concord Monitor,https://www.concordmonitor.com,https://www.concordmonitor.com/feed/,NH,Concord,quotidiano_locale,Newspapers of New England,en,misto,200,forte su politica statale NH
+InDepthNH,https://indepthnh.org,https://indepthnh.org/feed/,NH,Concord,nonprofit,indipendente,en,no,200,giornalismo investigativo nonprofit
+New Hampshire Bulletin,https://newhampshirebulletin.com,https://newhampshirebulletin.com/feed/,NH,Concord,nonprofit,States Newsroom,en,no,403,da verificare da USA (403)
+NHPR,https://www.nhpr.org,https://www.nhpr.org/rss.xml,NH,Concord,nonprofit,indipendente,en,no,200,radio pubblica statale
+Keene Sentinel,https://www.keenesentinel.com,https://www.keenesentinel.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,NH,Keene,citta_contea,indipendente,en,misto,200,Monadnock region; feed BLOX
+WMUR ABC 9,https://www.wmur.com,https://www.wmur.com/topstories-rss,NH,Manchester,tv_locale,Hearst TV,en,no,451,"TV di riferimento del NH (primarie); da verificare da USA (451 geoblocco UE)"
+VTDigger,https://vtdigger.org,https://vtdigger.org/feed/,VT,Montpelier,nonprofit,indipendente,en,no,200,principale fonte di notizie del Vermont
+Seven Days,https://www.sevendaysvt.com,https://www.sevendaysvt.com/feed/,VT,Burlington,settimanale_alt,indipendente,en,no,200,settimanale alternativo con molta cronaca
+Vermont Public,https://www.vermontpublic.org,https://www.vermontpublic.org/local-news.rss,VT,Colchester,nonprofit,indipendente,en,no,200,radio/TV pubblica statale
+WCAX,https://www.wcax.com,https://www.wcax.com/arc/outboundfeeds/rss/?outputType=xml,VT,Burlington,tv_locale,Gray,en,no,200,CBS Burlington
+Valley News,https://www.vnews.com,https://vnews.com/feed/,NH,Lebanon,quotidiano_locale,Newspapers of New England,en,misto,200,Upper Valley (confine NH/VT)
+Burlington Free Press,https://www.burlingtonfreepress.com,,VT,Burlington,quotidiano_locale,Gannett,en,si,402,"da verificare da USA (402); Gannett senza feed pubblico noto"
+The Boston Globe,https://www.bostonglobe.com,https://www.bostonglobe.com/arc/outboundfeeds/rss/?outputType=xml,MA,Boston,quotidiano_metro,Boston Globe Media,en,si,200,feed generale (include anche edizione Rhode Island)
+Boston Herald,https://www.bostonherald.com,https://www.bostonherald.com/feed/,MA,Boston,quotidiano_metro,Alden/MediaNews,en,misto,200,feed /feed/ risponde 403 da qui: da verificare da USA
+WBUR,https://www.wbur.org,https://www.wbur.org/rss,MA,Boston,nonprofit,indipendente,en,no,200,radio pubblica con forte redazione locale
+MassLive,https://www.masslive.com,https://www.masslive.com/arc/outboundfeeds/rss/?outputType=xml,MA,Springfield,quotidiano_locale,Advance,en,misto,403,homepage 403 ma feed funzionante; Massachusetts occidentale
+CommonWealth Beacon,https://commonwealthbeacon.org,https://commonwealthbeacon.org/feed/,MA,Boston,nonprofit,indipendente,en,no,200,politica e policy statale
+The Berkshire Eagle,https://www.berkshireeagle.com,https://www.berkshireeagle.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,MA,Pittsfield,quotidiano_locale,indipendente,en,misto,200,Berkshires; feed BLOX
+Telegram & Gazette,https://www.telegram.com,,MA,Worcester,quotidiano_locale,Gannett,en,si,402,"da verificare da USA (402); Gannett senza feed pubblico noto"
+The New Bedford Light,https://newbedfordlight.org,https://newbedfordlight.org/feed/,MA,New Bedford,nonprofit,indipendente,en,no,200,nonprofit locale South Coast
+Dorchester Reporter,https://www.dotnews.com,https://www.dotnews.com/feed/,MA,Boston (Dorchester),citta_contea,indipendente,en,no,200,settimanale di quartiere
+Cambridge Day,https://www.cambridgeday.com,https://www.cambridgeday.com/feed/,MA,Cambridge,citta_contea,indipendente,en,no,200,iper-locale Cambridge/Somerville
+WCVB ABC 5,https://www.wcvb.com,https://www.wcvb.com/topstories-rss,MA,Boston,tv_locale,Hearst TV,en,no,451,da verificare da USA (451 geoblocco UE)
+NBC Boston,https://www.nbcboston.com,https://www.nbcboston.com/?rss=y,MA,Boston,tv_locale,NBCU,en,no,200,
+Boston 25 News,https://www.boston25news.com,https://www.boston25news.com/arc/outboundfeeds/rss/?outputType=xml,MA,Boston,tv_locale,Cox Media Group,en,no,200,homepage reindirizza a pagina 'unavailable-location' da UE ma feed ok
+Telemundo Nueva Inglaterra,https://www.telemundonuevainglaterra.com,https://www.telemundonuevainglaterra.com/?rss=y,MA,Boston,tv_locale,Telemundo/NBCU,es,no,200,TV in spagnolo per il New England
+El Mundo Boston,https://elmundoboston.com,https://elmundoboston.com/feed/,MA,Boston,citta_contea,indipendente,es,no,200,settimanale in spagnolo
+The Providence Journal,https://www.providencejournal.com,,RI,Providence,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402); Gannett senza feed pubblico noto"
+WPRI 12,https://www.wpri.com,https://www.wpri.com/feed/,RI,Providence,tv_locale,Nexstar,en,no,403,homepage 403 ma feed funzionante
+NBC 10 WJAR,https://turnto10.com,https://turnto10.com/news/local.rss,RI,Providence,tv_locale,Sinclair,en,no,200,
+Rhode Island Current,https://rhodeislandcurrent.com,https://rhodeislandcurrent.com/feed/,RI,Providence,nonprofit,States Newsroom,en,no,403,da verificare da USA (403)
+The Public's Radio,https://thepublicsradio.org,https://thepublicsradio.org/feed/,RI,Providence,nonprofit,indipendente,en,no,200,radio pubblica RI e sud-est MA
+ecoRI News,https://ecori.org,https://ecori.org/feed/,RI,Providence,nonprofit,indipendente,en,no,200,ambiente e territorio
+Rhode Island News Today,https://www.rinewstoday.com,https://rinewstoday.com/feed/,RI,Providence,citta_contea,indipendente,en,no,200,sito digitale locale
+The Connecticut Mirror,https://ctmirror.org,https://ctmirror.org/feed/,CT,Hartford,nonprofit,indipendente,en,no,200,politica e policy statale
+Hartford Courant,https://www.courant.com,https://www.courant.com/feed/,CT,Hartford,quotidiano_metro,Alden/MediaNews,en,si,403,da verificare da USA (403)
+CT Insider,https://www.ctinsider.com,,CT,New Haven,quotidiano_metro,Hearst,en,si,200,"hub dei quotidiani Hearst CT (New Haven Register, CT Post...); senza feed"
+New Haven Independent,https://newhavenindependent.org,https://www.newhavenindependent.org/feed/,CT,New Haven,nonprofit,indipendente,en,no,200,iper-locale nonprofit storico
+CT News Junkie,https://ctnewsjunkie.com,https://ctnewsjunkie.com/feed/,CT,Hartford,citta_contea,indipendente,en,no,200,politica statale
+Connecticut Public,https://www.ctpublic.org,https://www.ctpublic.org/news.rss,CT,Hartford,nonprofit,indipendente,en,no,200,radio/TV pubblica
+CT Examiner,https://ctexaminer.com,https://ctexaminer.com/feed/,CT,Old Lyme,citta_contea,indipendente,en,no,200,shoreline e CT orientale
+NBC Connecticut,https://www.nbcconnecticut.com,https://www.nbcconnecticut.com/?rss=y,CT,Hartford,tv_locale,NBCU,en,no,200,
+WFSB Channel 3,https://www.wfsb.com,https://www.wfsb.com/arc/outboundfeeds/rss/?outputType=xml,CT,Hartford,tv_locale,Gray,en,no,200,CBS Hartford
+The City Reporter (ex THE CITY),https://www.thecityreporter.nyc,https://www.thecityreporter.nyc/feed/,NY,New York,nonprofit,indipendente,en,no,200,"nonprofit NYC; thecity.nyc ora reindirizza qui, stessa redazione"
+Gothamist,https://gothamist.com,https://gothamist.com/feed/,NY,New York,nonprofit,indipendente,en,no,200,sito locale di WNYC/New York Public Radio
+New York Daily News,https://www.nydailynews.com,https://www.nydailynews.com/feed/,NY,New York,quotidiano_metro,Alden/MediaNews,en,misto,403,da verificare da USA (403)
+Newsday,https://www.newsday.com,https://www.newsday.com/api/rss/recent,NY,Long Island,quotidiano_metro,indipendente,en,si,200,Long Island (Nassau e Suffolk)
+Hell Gate,https://hellgatenyc.com,https://hellgatenyc.com/all-posts/rss/,NY,New York,citta_contea,indipendente,en,misto,200,cooperativa di giornalisti NYC
+amNY,https://www.amny.com,https://www.amny.com/feed/,NY,New York,quotidiano_locale,Schneps Media,en,no,200,
+Brooklyn Paper,https://www.brooklynpaper.com,https://www.brooklynpaper.com/feed/,NY,Brooklyn,citta_contea,Schneps Media,en,no,200,stesso gruppo di amNY e QNS
+QNS,https://qns.com,https://qns.com/feed/,NY,Queens,citta_contea,Schneps Media,en,no,200,Queens
+BK Reader,https://www.bkreader.com,https://www.bkreader.com/rss,NY,Brooklyn,citta_contea,indipendente,en,no,200,Brooklyn centrale
+Staten Island Advance (SILive),https://www.silive.com,https://www.silive.com/arc/outboundfeeds/rss/?outputType=xml,NY,Staten Island,quotidiano_locale,Advance,en,misto,403,homepage 403 ma feed funzionante
+Bronx Times,https://www.bronxtimes.com,https://www.bronxtimes.com/feed/,NY,Bronx,citta_contea,Schneps Media,en,no,,"errore SSL da qui; da verificare da USA"
+Documented,https://documentedny.com,https://documentedny.com/feed/,NY,New York,nonprofit,indipendente,en,no,200,immigrazione a NYC (pubblica anche in spagnolo)
+New York Focus,https://nysfocus.com,https://nysfocus.com/feed.xml,NY,Albany,nonprofit,indipendente,en,no,200,inchieste su politica statale NY
+City & State New York,https://www.cityandstateny.com,https://www.cityandstateny.com/rss/all/,NY,New York,citta_contea,indipendente,en,misto,200,politica NYC e Albany
+Spectrum News NY1,https://ny1.com,https://www.ny1.com/services/contentfeed.nyc%7Call-boroughs%7Cnews.landing.rss,NY,New York,tv_locale,Charter Spectrum,en,no,200,all-news locale NYC
+PIX11,https://pix11.com,https://pix11.com/feed/,NY,New York,tv_locale,Nexstar,en,no,403,homepage 403 ma feed funzionante
+ABC7 New York,https://abc7ny.com,https://abc7ny.com/feed/,NY,New York,tv_locale,ABC/Disney,en,no,200,
+El Diario NY,https://eldiariony.com,https://eldiariony.com/feed/,NY,New York,quotidiano_metro,ImpreMedia,es,no,200,principale quotidiano in spagnolo NYC
+Telemundo 47,https://www.telemundo47.com,https://www.telemundo47.com/?rss=y,NY,New York,tv_locale,Telemundo/NBCU,es,no,200,copre anche NJ
+Univision 41 Nueva York,https://www.univision.com/local/nueva-york-wxtv,,NY,New York,tv_locale,Univision/TelevisaUnivision,es,no,200,senza feed
+Times Union,https://www.timesunion.com,,NY,Albany,quotidiano_locale,Hearst,en,si,200,"forte su politica statale (Albany); senza feed"
+The Buffalo News,https://buffalonews.com,https://buffalonews.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,NY,Buffalo,quotidiano_metro,Lee,en,si,200,feed BLOX
+Investigative Post,https://investigativepost.org,https://investigativepost.org/feed/,NY,Buffalo,nonprofit,indipendente,en,no,200,inchieste Buffalo
+WKBW 7,https://www.wkbw.com,https://www.wkbw.com/index.rss,NY,Buffalo,tv_locale,Scripps,en,no,200,feed Scripps con pochi elementi
+Syracuse.com,https://www.syracuse.com,https://www.syracuse.com/arc/outboundfeeds/rss/?outputType=xml,NY,Syracuse,quotidiano_locale,Advance,en,misto,403,homepage 403 ma feed funzionante (Post-Standard)
+Rochester Beacon,https://rochesterbeacon.com,https://rochesterbeacon.com/feed/,NY,Rochester,nonprofit,indipendente,en,no,200,
+WXXI News,https://www.wxxinews.org,https://www.wxxinews.org/local-news.rss,NY,Rochester,nonprofit,indipendente,en,no,200,media pubblico Rochester
+Democrat and Chronicle,https://www.democratandchronicle.com,,NY,Rochester,quotidiano_locale,Gannett,en,si,402,"da verificare da USA (402); Gannett senza feed pubblico noto"
+The Journal News (lohud),https://www.lohud.com,,NY,White Plains,quotidiano_locale,Gannett,en,si,402,"Westchester/Rockland; da verificare da USA (402); senza feed noto"
+Hudson Valley One,https://hudsonvalleyone.com,https://hudsonvalleyone.com/feed/,NY,Kingston,citta_contea,indipendente,en,no,200,Ulster County
+Mid-Hudson News,https://www.midhudsonnews.com,https://midhudsonnews.com/feed/,NY,Newburgh,citta_contea,indipendente,en,no,200,Hudson Valley
+NNY360 (Watertown Daily Times),https://www.nny360.com,https://www.nny360.com/search/?f=rss,NY,Watertown,quotidiano_locale,Johnson Newspaper Corp,en,misto,200,Nord dello stato rurale; feed BLOX
+The Ithaca Voice,https://ithacavoice.org,https://ithacavoice.org/feed/,NY,Ithaca,nonprofit,indipendente,en,no,200,
+RiverheadLOCAL,https://riverheadlocal.com,https://riverheadlocal.com/feed/,NY,Riverhead,citta_contea,indipendente,en,no,200,East End di Long Island
+NJ.com (Star-Ledger),https://www.nj.com,https://www.nj.com/arc/outboundfeeds/rss/?outputType=xml,NJ,Newark,quotidiano_metro,Advance,en,misto,403,homepage 403 ma feed funzionante; carta chiusa nel 2025
+NorthJersey.com (The Record),https://www.northjersey.com,,NJ,Hackensack,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402); Gannett senza feed pubblico noto"
+Asbury Park Press,https://www.app.com,,NJ,Neptune,quotidiano_locale,Gannett,en,si,402,"Jersey Shore; da verificare da USA (402)"
+NJ Spotlight News,https://www.njspotlightnews.org,https://www.njspotlightnews.org/feed/,NJ,Newark,nonprofit,indipendente,en,no,200,policy statale (NJ PBS)
+New Jersey Monitor,https://newjerseymonitor.com,https://newjerseymonitor.com/feed/,NJ,Trenton,nonprofit,States Newsroom,en,no,403,da verificare da USA (403)
+New Jersey Globe,https://www.newjerseyglobe.com,https://www.newjerseyglobe.com/feed/,NJ,Trenton,citta_contea,indipendente,en,no,403,"politica NJ; da verificare da USA (403)"
+InsiderNJ,https://www.insidernj.com,https://www.insidernj.com/feed/,NJ,Trenton,citta_contea,indipendente,en,no,200,politica NJ
+Jersey City Times,https://jcitytimes.com,https://jcitytimes.com/feed/,NJ,Jersey City,citta_contea,indipendente,en,no,200,Hudson County
+Hudson County View,https://hudsoncountyview.com,https://hudsoncountyview.com/feed/,NJ,Jersey City,citta_contea,indipendente,en,no,403,da verificare da USA (403)
+Paterson Times,https://patersontimes.com,https://patersontimes.com/feed/,NJ,Paterson,citta_contea,indipendente,en,no,200,Passaic County
+Montclair Local,https://montclairlocal.news,https://montclairlocal.news/feed/,NJ,Montclair,citta_contea,indipendente,en,no,200,nonprofit iper-locale Essex County
+Morristown Green,https://morristowngreen.com,https://morristowngreen.com/feed/,NJ,Morristown,citta_contea,indipendente,en,no,200,Morris County
+The Press of Atlantic City,https://pressofatlanticcity.com,http://pressofatlanticcity.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory,NJ,Atlantic City,quotidiano_locale,Lee,en,si,200,South Jersey; feed BLOX topstory
+The Trentonian,https://www.trentonian.com,https://www.trentonian.com/feed/,NJ,Trenton,quotidiano_locale,Alden/MediaNews,en,misto,200,feed 403 da qui: da verificare da USA
+NJ 101.5,https://nj1015.com,https://nj1015.com/feed/,NJ,Trenton,citta_contea,Townsquare Media,en,no,200,radio news statale
+The Philadelphia Inquirer,https://www.inquirer.com,https://www.inquirer.com/arc/outboundfeeds/rss/?outputType=xml,PA,Philadelphia,quotidiano_metro,indipendente,en,si,200,di proprietà del Lenfest Institute (nonprofit); pubblica anche in spagnolo
+WHYY,https://whyy.org,https://whyy.org/feed/,PA,Philadelphia,nonprofit,indipendente,en,no,200,media pubblico Philadelphia/South Jersey/Delaware
+Billy Penn,https://billypenn.com,https://billypenn.com/feed/,PA,Philadelphia,citta_contea,indipendente,en,no,200,di proprietà di WHYY: possibili riprese
+PhillyVoice,https://www.phillyvoice.com,https://www.phillyvoice.com/feed/,PA,Philadelphia,citta_contea,indipendente,en,no,200,
+Philadelphia Tribune,https://www.phillytrib.com,https://www.phillytrib.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,PA,Philadelphia,quotidiano_locale,indipendente,en,misto,451,"storico giornale afroamericano; da verificare da USA (451); feed BLOX dedotto"
+NBC10 Philadelphia,https://www.nbcphiladelphia.com,https://www.nbcphiladelphia.com/?rss=y,PA,Philadelphia,tv_locale,NBCU,en,no,200,
+6abc Philadelphia,https://6abc.com,https://6abc.com/feed/,PA,Philadelphia,tv_locale,ABC/Disney,en,no,200,
+FOX 29 Philadelphia,https://www.fox29.com,https://www.fox29.com/rss.xml,PA,Philadelphia,tv_locale,Fox Television Stations,en,no,200,
+Telemundo 62,https://www.telemundo62.com,https://www.telemundo62.com/?rss=y,PA,Philadelphia,tv_locale,Telemundo/NBCU,es,no,200,TV in spagnolo Philadelphia
+Pittsburgh Post-Gazette,https://www.post-gazette.com,https://www.post-gazette.com/rss,PA,Pittsburgh,quotidiano_metro,Block Communications,en,si,200,feed attivo a settembre 2026
+TribLive,https://triblive.com,https://triblive.com/feed/,PA,Pittsburgh,quotidiano_metro,indipendente,en,misto,200,Pittsburgh Tribune-Review e contee suburbane
+PublicSource,https://www.publicsource.org,https://www.publicsource.org/feed/,PA,Pittsburgh,nonprofit,indipendente,en,no,200,
+Pittsburgh City Paper,https://www.pghcitypaper.com,https://www.pghcitypaper.com/feed/,PA,Pittsburgh,settimanale_alt,indipendente,en,no,403,homepage 403 ma feed funzionante
+WPXI 11,https://www.wpxi.com,https://www.wpxi.com/arc/outboundfeeds/rss/?outputType=xml,PA,Pittsburgh,tv_locale,Cox Media Group,en,no,200,NBC Pittsburgh
+WTAE 4,https://www.wtae.com,https://www.wtae.com/topstories-rss,PA,Pittsburgh,tv_locale,Hearst TV,en,no,451,da verificare da USA (451 geoblocco UE)
+Spotlight PA,https://www.spotlightpa.org,https://www.spotlightpa.org/feeds/full.xml,PA,Harrisburg,nonprofit,indipendente,en,no,200,inchieste statali; ripubblicato da molte testate PA
+PennLive (Patriot-News),https://www.pennlive.com,https://www.pennlive.com/arc/outboundfeeds/rss/?outputType=xml,PA,Harrisburg,quotidiano_locale,Advance,en,misto,403,homepage 403 ma feed funzionante
+Pennsylvania Capital-Star,https://penncapital-star.com,https://penncapital-star.com/feed/,PA,Harrisburg,nonprofit,States Newsroom,en,no,403,da verificare da USA (403)
+WITF,https://www.witf.org,https://www.witf.org/feed/,PA,Harrisburg,nonprofit,indipendente,en,no,200,media pubblico Pennsylvania centrale
+abc27 WHTM,https://www.abc27.com,https://www.abc27.com/feed/,PA,Harrisburg,tv_locale,Nexstar,en,no,403,homepage 403 ma feed funzionante
+CBS 21 WHP,https://local21news.com,https://local21news.com/news/local.rss,PA,Harrisburg,tv_locale,Sinclair,en,no,200,
+Erie Times-News (GoErie),https://www.goerie.com,,PA,Erie,quotidiano_locale,Gannett,en,si,402,"Erie, contea chiave; da verificare da USA (402)"
+YourErie (WJET/WFXP),https://www.yourerie.com,https://www.yourerie.com/feed/,PA,Erie,tv_locale,Nexstar,en,no,403,homepage 403 ma feed funzionante
+Times Leader,https://www.timesleader.com,https://www.timesleader.com/feed,PA,Wilkes-Barre,quotidiano_locale,Avant Publications,en,misto,200,Luzerne County
+The Times-Tribune,https://www.thetimes-tribune.com,https://www.thetimes-tribune.com/feed/,PA,Scranton,quotidiano_locale,Alden/MediaNews,en,si,200,feed 403 da qui: da verificare da USA
+PAhomepage (WBRE/WYOU),https://www.pahomepage.com,https://www.pahomepage.com/feed/,PA,Wilkes-Barre,tv_locale,Nexstar,en,no,403,homepage 403 ma feed funzionante; nord-est PA
+WNEP 16,https://www.wnep.com,https://www.wnep.com/feeds/syndication/rss/news,PA,Scranton,tv_locale,TEGNA,en,no,,"timeout da qui; feed TEGNA dedotto, da verificare da USA"
+WVIA,https://www.wvia.org,https://www.wvia.org/news.rss,PA,Scranton,nonprofit,indipendente,en,no,200,media pubblico nord-est PA
+The Morning Call,https://www.mcall.com,https://www.mcall.com/feed/,PA,Allentown,quotidiano_locale,Alden/MediaNews,en,si,403,"Lehigh Valley; da verificare da USA (403)"
+LehighValleyNews.com,https://www.lehighvalleynews.com,,PA,Allentown,nonprofit,indipendente,en,no,200,"ora reindirizza a lehighvalleypublicmedia.org/news; feed non trovato"
+WFMZ 69,https://www.wfmz.com,https://www.wfmz.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,PA,Allentown,tv_locale,indipendente,en,no,200,feed BLOX dedotto (429 da qui)
+LNP | LancasterOnline,https://lancasteronline.com,https://lancasteronline.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,PA,Lancaster,quotidiano_locale,LNP Media Group (Steinman Foundation),en,si,451,"da verificare da USA (451 geoblocco UE); feed BLOX dedotto"
+WGAL 8,https://www.wgal.com,https://www.wgal.com/topstories-rss,PA,Lancaster,tv_locale,Hearst TV,en,no,451,"Lancaster/York/Harrisburg; da verificare da USA (451)"
+Reading Eagle,https://www.readingeagle.com,https://www.readingeagle.com/feed/,PA,Reading,quotidiano_locale,Alden/MediaNews,en,si,200,"Berks County; feed 403 da qui, da verificare da USA"
+York Daily Record,https://www.ydr.com,,PA,York,quotidiano_locale,Gannett,en,si,402,"da verificare da USA (402)"
+Altoona Mirror,https://www.altoonamirror.com,https://www.altoonamirror.com/feed/,PA,Altoona,quotidiano_locale,Ogden,en,misto,200,Pennsylvania centrale rurale
+WJAC 6,https://wjactv.com,https://wjactv.com/news/local.rss,PA,Johnstown,tv_locale,Sinclair,en,no,200,Johnstown/Altoona/State College
+The Tribune-Democrat,https://www.tribdem.com,https://www.tribdem.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,PA,Johnstown,quotidiano_locale,CNHI,en,misto,451,"da verificare da USA (451); feed BLOX dedotto"
+Centre Daily Times,https://www.centredaily.com,,PA,State College,quotidiano_locale,McClatchy,en,si,,"timeout da qui; feed McClatchy (widget) da individuare da USA"
+Observer-Reporter,https://www.observer-reporter.com,https://www.observer-reporter.com/feed/,PA,Washington,quotidiano_locale,Ogden,en,misto,200,Washington/Greene County (sud-ovest rurale)
+Herald-Standard,https://www.heraldstandard.com,https://www.heraldstandard.com/feed/,PA,Uniontown,quotidiano_locale,Ogden,en,misto,200,Fayette County
+Williamsport Sun-Gazette,https://www.sungazette.com,https://www.sungazette.com/feed/,PA,Williamsport,quotidiano_locale,Ogden,en,misto,200,Pennsylvania centro-nord rurale
+Delaware Online (News Journal),https://www.delawareonline.com,,DE,Wilmington,quotidiano_metro,Gannett,en,si,402,"da verificare da USA (402)"
+Spotlight Delaware,https://spotlightdelaware.org,https://spotlightdelaware.org/feed/,DE,Dover,nonprofit,indipendente,en,no,200,
+Delaware LIVE,https://delawarelive.com,https://delawarelive.com/feed/,DE,Wilmington,citta_contea,indipendente,en,no,200,
+Cape Gazette,https://www.capegazette.com,https://www.capegazette.com/rss.xml,DE,Lewes,citta_contea,indipendente,en,no,200,Sussex County
+WBOC 16,https://www.wboc.com,https://www.wboc.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,DE,Salisbury/Dover,tv_locale,Draper Media,en,no,451,"Delmarva; da verificare da USA (451); feed BLOX dedotto"
+The Baltimore Banner,https://www.thebanner.com,https://www.thebanner.com/arc/outboundfeeds/rss/?outputType=xml,MD,Baltimore,nonprofit,indipendente,en,si,200,nonprofit con paywall; principale testata di Baltimora
+The Baltimore Sun,https://www.baltimoresun.com,https://www.baltimoresun.com/feed/,MD,Baltimore,quotidiano_metro,Sinclair (David Smith),en,si,403,da verificare da USA (403)
+Baltimore Brew,https://www.baltimorebrew.com,https://content.baltimorebrew.com/rss,MD,Baltimore,citta_contea,indipendente,en,no,200,watchdog su amministrazione cittadina
+Baltimore Fishbowl,https://baltimorefishbowl.com,https://baltimorefishbowl.com/feed/,MD,Baltimore,citta_contea,indipendente,en,no,200,
+Maryland Matters,https://marylandmatters.org,https://marylandmatters.org/feed/,MD,Annapolis,nonprofit,States Newsroom,en,no,403,da verificare da USA (403)
+WYPR,https://www.wypr.org,https://www.wypr.org/news.rss,MD,Baltimore,nonprofit,indipendente,en,no,200,radio pubblica Baltimora
+WBAL-TV 11,https://www.wbaltv.com,https://www.wbaltv.com/topstories-rss,MD,Baltimore,tv_locale,Hearst TV,en,no,451,da verificare da USA (451)
+WMAR 2,https://www.wmar2news.com,https://www.wmar2news.com/index.rss,MD,Baltimore,tv_locale,Scripps,en,no,200,feed Scripps con pochi elementi
+Capital Gazette,https://www.capitalgazette.com,https://www.capitalgazette.com/feed/,MD,Annapolis,quotidiano_locale,Alden/MediaNews,en,si,403,da verificare da USA (403)
+The Frederick News-Post,https://www.fredericknewspost.com,https://www.fredericknewspost.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc,MD,Frederick,quotidiano_locale,indipendente,en,misto,451,"da verificare da USA (451); feed BLOX dedotto"
+The Washington Post (Local),https://www.washingtonpost.com/dc-md-va/,https://feeds.washingtonpost.com/rss/local,DC,Washington,quotidiano_metro,Nash Holdings,en,si,,"homepage in timeout da qui; feed sezione locale DC/MD/VA funzionante"
+WAMU / DCist,https://wamu.org,https://wamu.org/feed/,DC,Washington,nonprofit,indipendente,en,no,200,radio pubblica DC (DCist chiuso nel 2023)
+Washington City Paper,https://washingtoncitypaper.com,https://washingtoncitypaper.com/feed/,DC,Washington,settimanale_alt,indipendente,en,no,200,
+The 51st,https://51st.news,https://51st.news/rss/,DC,Washington,nonprofit,indipendente,en,no,200,nonprofit nata dopo chiusura DCist
+Washington Informer,https://www.washingtoninformer.com,https://www.washingtoninformer.com/feed/,DC,Washington,citta_contea,indipendente,en,no,200,settimanale afroamericano
+WTOP,https://wtop.com,https://wtop.com/feed/,DC,Washington,citta_contea,Hubbard Broadcasting,en,no,200,radio all-news DC/MD/VA
+NBC4 Washington,https://www.nbcwashington.com,https://www.nbcwashington.com/?rss=y,DC,Washington,tv_locale,NBCU,en,no,200,
+FOX 5 DC,https://www.fox5dc.com,https://www.fox5dc.com/rss.xml,DC,Washington,tv_locale,Fox Television Stations,en,no,200,
+7News WJLA,https://wjla.com,https://wjla.com/news/local.rss,DC,Washington,tv_locale,Sinclair,en,no,200,
+WUSA9,https://www.wusa9.com,https://www.wusa9.com/feeds/syndication/rss/news,DC,Washington,tv_locale,TEGNA,en,no,,"timeout da qui; feed TEGNA dedotto, da verificare da USA"
+Telemundo 44 Washington,https://www.telemundowashingtondc.com,https://www.telemundowashingtondc.com/?rss=y,DC,Washington,tv_locale,Telemundo/NBCU,es,no,200,TV in spagnolo DC/MD/VA
+El Tiempo Latino,https://eltiempolatino.com,https://eltiempolatino.com/rss/,DC,Washington,citta_contea,indipendente,es,no,200,settimanale in spagnolo area DC

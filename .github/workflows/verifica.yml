@@ -1,0 +1,26 @@
+name: Verifica testate (da USA)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  verifica:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python tools/verifica_tutte.py
+      - name: Salva i risultati
+        run: |
+          git config user.name "monitor-locale"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/verifica_usa.csv
+          git commit -m "Verifica testate da USA" || echo "niente da salvare"
+          git push
